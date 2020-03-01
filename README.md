@@ -5,7 +5,7 @@ Hello !
 This is my configuration for installing MacOS on a Ryzen computer
 Using OpenCore. (because Clover and AMD it's bad)
 
-![configuration]([todo])
+TODO : Spec screen
 
 
 ## Configuration
@@ -16,7 +16,7 @@ Using OpenCore. (because Clover and AMD it's bad)
 
 **RAM** : 16Gb
 
-**OS** : MacOS Catalina
+**OS** : MacOS Catalina 10.15.3 (can update without problems)
 
 ## Features
  - [x] Brightness
